@@ -12,5 +12,8 @@ class Program
             }
             Console.WriteLine();
         }
+
+        Console.WriteLine($"Show how commit works");
+
     }
 }
